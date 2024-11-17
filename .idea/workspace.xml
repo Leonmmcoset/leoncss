@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f48bf18e-40e9-4094-8f13-26fdad529787" name="更改" comment="fix">
-      <change afterPath="$PROJECT_DIR$/LICENCE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENCE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LICENCE.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
       <workItem from="1731749303686" duration="2717000" />
       <workItem from="1731752059066" duration="4680000" />
       <workItem from="1731834579581" duration="1584000" />
-      <workItem from="1731836185943" duration="1195000" />
+      <workItem from="1731836185943" duration="1263000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <option name="closed" value="true" />
