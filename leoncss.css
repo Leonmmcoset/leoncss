@@ -48,6 +48,14 @@ code {
 .themecolor {
     color: dodgerblue;
 }
+.borderdashed {
+    border-radius: 5px;
+    border-style: dashed;
+}
+hr {
+    border-radius: 5px;
+    border-style: dashed;
+}
 /* Customize the label (the container) */
 .checkcontainer {
     display: block;
